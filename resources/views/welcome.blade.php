@@ -36,7 +36,7 @@
                   </div>
                 </div>
               </div>
-                 
+
               <div class="mb-4">
                 <label for="animal_type" class="block text-sm font-medium text-gray-700 flex items-center">
                     <i class="fas fa-paw mr-2"></i> Animal Type

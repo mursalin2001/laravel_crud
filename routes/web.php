@@ -8,10 +8,6 @@ Route::get('/', function () {
 });
 
 
-Route::get('/test', function () {
-    return view('test');
-});
-
 Route::get('/users', [UsersController::class, 'index']);
 
 Route::get('/home', [UsersController::class, 'home']);
